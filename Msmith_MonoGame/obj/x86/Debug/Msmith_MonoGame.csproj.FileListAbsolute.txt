@@ -1,0 +1,87 @@
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\player.png
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\token.png
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Arial14.xnb
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.exe
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.pdb
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.csprojResolveAssemblyReference.cache
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.exe
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.pdb
+M:\Documents\Visual Studio 2015\Projects\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Pixel Islands.png
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Pixel Islands.png
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\player.png
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\token.png
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Arial14.xnb
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.exe
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.pdb
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.csprojResolveAssemblyReference.cache
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.exe
+E:\IGME106-01\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.pdb
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.exe
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.pdb
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Pixel Islands.png
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\player.png
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\token.png
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Content\Arial14.xnb
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.exe
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\Msmith_MonoGame.pdb
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Megan\Desktop\Msmith_MonoGame\Msmith_MonoGame\obj\x86\Debug\Msmith_MonoGame.csprojResolveAssemblyReference.cache
